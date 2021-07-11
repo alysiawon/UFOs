@@ -6,7 +6,7 @@ The purpose of this project is to display UFO sightings and information on a web
 
 ## Results
 
-<img align="right" src="Analysis/sample.png" width="500">
+<img align="right" src="Analysis/sample.png" width="550">
 
 The data preparation utilizes Javascript and HTML to analyze and create webpage and a dynamic table with filters. The webpage is generated on the <a href="index.html">index HTML webpage file</a>. 
 
