@@ -14,7 +14,7 @@ The webpage is created by altering the <a href="static/js/data.js">data</a> to m
 
 The webpage is extremely dynamic and has various features. In the webpage, there are 4 key features to highlight:
 
-<img align="right" src="Analysis/sample.png" width="500">
+<img align="right" src="Analysis/sample.png" width="400">
 
 **1. Header**
 
