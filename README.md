@@ -6,6 +6,8 @@ The purpose of this project is to display UFO sightings and information on a web
 
 ## Results
 
+<img align="right" src="Analysis/sample.png" width="450">
+
 The data preparation utilizes Javascript and HTML to analyze and create webpage and a dynamic table with filters. The webpage is generated on the <a href="index.html">index HTML webpage file</a>. 
 
 The webpage is created by altering the <a href="static/js/data.js">data</a> to make an <a href="static/js/app.js">application</a>. The webpage also utilizes <a href="static/css/style.css">CSS</a> to make it easy to read and more aesthetic.  
@@ -13,8 +15,6 @@ The webpage is created by altering the <a href="static/js/data.js">data</a> to m
 ### Overview of Webpage
 
 The webpage is extremely dynamic and has various features. In the webpage, there are 4 key features to highlight:
-
-<img align="right" src="Analysis/sample.png" width="335">
 
 **1. Header**
 
